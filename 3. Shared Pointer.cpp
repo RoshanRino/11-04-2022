@@ -1,6 +1,5 @@
 #include<iostream>
 #include<memory>
-#include<typeinfo>
 using namespace std;
 class student
 {
